@@ -1,19 +1,19 @@
 # --- Serving options --- #
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
 # url is the full website URL
-url: "http://droglenc.github.io"
+url: "http://kechin.github.io"
 # baseurl is the website's URL without the hostname
 baseurl: ""
 
 # Name of website
-title: Derek Ogle
+title: My Website
 # Short description of your site
-description: Professor of Mathemetical Sciences and Natural Resources at Northland College.
+#description: 
 
 # --- Navigation bar options --- #
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/DerekOgle.jpg"
+#avatar: "/img/"
 
 # List of links in the navigation bar
 navbar-links:
@@ -28,10 +28,10 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Derek H. Ogle
-  email: "dogle@northland.edu"
-  github: droglenc
-  twitter: droglenc
+  name: Kenneth Chin
+  #email: 
+ # github: droglenc
+ # twitter: droglenc
 
 # Select which links to show in the footer
 footer-links-active:
@@ -45,7 +45,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "derekogle.com"
+#url-pretty: "derekogle.com"
 
 # --- Misc --- #
 
@@ -53,7 +53,7 @@ url-pretty: "derekogle.com"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-67615311-1"
+#google_analytics: "UA-67615311-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
