@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Derek Ogle
-subtitle: Fisheries & Stats Professor / R Enthusiast
+title: Somebody
+subtitle: Testing
 css: "/css/index.css"
-meta-title: "Derek Ogle"
-meta-description: "Professor of Mathemetical Sciences and Natural Resources at Northland College."
+meta-title: "Somebody"
+meta-description: "Testing"
 bigimg:
   - "/img/big-imgs/Arizona_2017a.jpg" : "Arizona, 2017"
   - "/img/big-imgs/Arizona_2017b.jpg" : "Arizona, 2017"
